@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="rtbBussines">Bussines</string>
+    <string name="rbtParticular">Particular</string>
+    <string name="txvProfession">Profesion</string>
+    <string name="txvName">Nombre</string>
+    <string name="txvBussinesId">Bussines Id</string>
+    <string name="txvRepresentative">Representante</string>
+    <string name="txvNEmployees">Numero de empleados</string>
+</resources>
